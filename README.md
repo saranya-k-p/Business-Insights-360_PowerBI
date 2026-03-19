@@ -36,6 +36,18 @@ From January to August 2022, the dashboard reflects estimates based on forecasts
 
 ---
 
+## Tech & Methods
+
+- Power BI (Desktop & Service)  
+- Power Query / ETL  
+- DAX (measures & calculated columns)  
+- Power Pivot & Data Modeling  
+- Excel (data prep & exploration)  
+- Bookmarks, slicers, and UX-focused navigation
+ 
+
+---
+
 
 ## Dashboard Views
 
