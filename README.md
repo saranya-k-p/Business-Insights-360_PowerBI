@@ -95,7 +95,7 @@ In 2021, AtliQ Hardware’s market share improved, even though it is still at th
 - Prioritize high-demand products and reduce excess stock of slow-moving items  
 - Prepare inventory planning for festive demand spikes (Sep–Oct)  
 
-### Executive (Big Picture):
+### Executive:
 - Diversify revenue sources by expanding underutilized channels (direct, distributor).  
 - Continue building market share while focusing on profitability, not just top-line growth.  
 - Shift from aggressive growth toward balanced, sustainable scaling that improves net profit.  
@@ -104,7 +104,7 @@ In 2021, AtliQ Hardware’s market share improved, even though it is still at th
 ---
 
 ## Impact:
-- By acting on these recommendations, AtliQ can improve its profitability by the 2022 festive season and end the year on stronger financial footing.  
+- By acting on these recommendations, AtliQ can improve its profitability by the 2022 festive season and end the year on stronger financial situation.
 - They can turn around underperforming regions or products and enter 2023 with a more balanced growth trajectory.  
 - Increased market share through better strategic and data-driven decisions.  
 
